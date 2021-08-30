@@ -152,7 +152,7 @@ const onPlayerReady = (player, options) => {
 /**
  * A video.js plugin.
  *
- * Adds a monile UI for player control, and fullscreen orientation control
+ * Adds a mobile UI for player control, and fullscreen orientation control
  *
  * @function mobileUi
  * @param    {Object} [options={}]
